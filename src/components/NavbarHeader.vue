@@ -21,5 +21,3 @@
   display: flex;
 }
 </style>
-
-export
